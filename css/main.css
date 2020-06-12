@@ -1,0 +1,23 @@
+.main{
+    width: 80%;
+    margin: 0% auto;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.card1,
+.card2{
+    width: 30%;
+    text-align: center;
+    background-color: aquamarine;
+    box-shadow: 6px 6px 6px -5px;
+}
+
+/* media for mobile view */
+@media (min-device-width:320px) and (max-device-width:480px){
+    .card1,
+    .card2{
+        width: 100%;
+        margin: 3% 0;
+    }
+}

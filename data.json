@@ -1,0 +1,19 @@
+{
+    "data":{
+        "name":"Rajesh Nalleboina",
+        "mobile":"9100965113",
+        "email":"rajesh.n@apssdc.in"
+    },
+    "mydata":[
+        { 
+            "name":"Raju Nalleboina",
+            "mobile":"9100965114",
+            "email":"raju.n@apssdc.in"
+        },
+        {
+            "name":"Rajesh Nalleboina",
+            "mobile":"9100965113",
+            "email":"rajesh.n@apssdc.in"
+        }
+    ]
+}
